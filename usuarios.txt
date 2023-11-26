@@ -1,0 +1,3 @@
+karla,karla,false
+lonzo,admin,true
+usuario1,pass123,false
